@@ -1,0 +1,1 @@
+/usr/local/src/casperjs/bin/casperjs /var/www/html/dev_camerascm/public/assets/js/japanpostEMSDL.js 8 262734785766-1925861860016 'http://dev.world-viewing.com/ebay/orderrest.json' '/var/www/html/dev_camerascm/public/emslabel/';
